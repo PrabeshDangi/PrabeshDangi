@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prabeshdangi&label=Profile%20views&color=0e75b6&style=flat" alt="prabeshdangi" /> </p>
 
-- 🌱 I’m currently learning **node.js/express.js**
+- 🌱 I’m currently learning **Backend Development(js)**
 
 - 📫 How to reach me **dangiprabesh58@gmail.com**
 
